@@ -2,7 +2,7 @@ package hellow_world;
 
 import java.util.*;
 
-public class Helloworld {  // 클래스 단위로 이루어져 있다
+public class Helloworld {  // 클래스 단위로 이루어져 있다.
 
 	public static int sum (int a , int b) {
 		
@@ -19,7 +19,7 @@ public class Helloworld {  // 클래스 단위로 이루어져 있다
 	
 	
 	// 메인 함수에서 실행 시작
-	// 함수를 메소드라고 한다. 메소드는 소문자로 시작해야 한다. 
+	// 함수를 메소드라고 한다. 메소드는 소문자로 시작해야 한다. 000---
 	// 특수문자 숫자는 안된다.  
 	
 	public static void main(String[] args) {
