@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 
 // 110 페이지 2번 실습
-// 1. 두자리의 정수를 입력받고 10의 자리와 1의 자리가 같으면 Yes, 다르면 No
+// 1. 두자리의 정수를 입력받고 10의 자리와 1의 자리가 같으면 Yes, 다르면 No  
 
 
 public class IfTest {
